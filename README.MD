@@ -1,1 +1,1 @@
-i.shygo.cn
+images.shygo.cn in i.shygo.cn
