@@ -1,4 +1,6 @@
 /*
   Access-Control-Allow-Origin: *
   X-Robots-Tag: nosnippet, noindex
-  Server: nginx
+  Allow: GET, HEAD
+  Cache-Control: max-age=360000
+  
